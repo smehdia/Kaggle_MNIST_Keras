@@ -22,3 +22,12 @@ How to run:
 Model Graph:
 
 ![Alt text](./model.png "Model Architecture")
+
+
+First Layer Filters Before Training the Model:
+
+![Alt text](./first_layer_filters_before_training.png "Kernels Initialization")
+
+First Layer Filters After Training the Model:
+
+![Alt text](./first_layer_filters.png "Kernels After Training")

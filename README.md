@@ -18,6 +18,8 @@ How to run:
  5) Run evaluate_model_on_test_data.py in order to create submission.csv which you could use to upload it in Kaggle
  
  
+ *** TRAINING AND VALIDATION ACCURACIES ARE ABOVE 99%
+ 
 -------------------------------------------------------------------------------------------------------------------
 Model Graph:
 

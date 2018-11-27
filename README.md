@@ -19,5 +19,6 @@ How to run:
  
  
 -------------------------------------------------------------------------------------------------------------------
-Model Architecuture:
+Model Graph:
+
 ![Alt text](./model.png "Model Architecture")

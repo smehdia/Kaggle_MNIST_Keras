@@ -31,3 +31,8 @@ First Layer Filters Before Training the Model:
 First Layer Filters After Training the Model:
 
 ![Alt text](./first_layer_filters.png "Kernels After Training")
+
+Losses and Accuracies: (Blue ---> Validation, Orange ---> Training)
+
+![Alt text](./tensorboard_plots.png "Tensorboard Sample Plots")
+
